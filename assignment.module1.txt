@@ -1,0 +1,54 @@
+
+
+
+  
+                          
+                module:1
+
+1.What is software? What is software engineering?
+=>Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement. 
+=>Software Engineering is the process of designing, developing, testing, and maintaining software.
+ It is a systematic and disciplined approach to software development that aims to create high-quality, reliable,
+ and maintainable software.
+
+2.Explain types of software?
+ => Two types of software
+   1. System software
+ Ex. Operating system,Development software,Utility programs
+   2. Application software
+ Ex. Word processing,Web browsers,presentation 
+
+3.What is SDLC? Explain each phase of SDLC.
+=>SDLC is system Development life cycle
+
+ 1. planning:
+ => obtain approval for project,lnitate,Assess feasibility,plan,schedule
+
+ 2. Analysis: 
+=>  Understand business needs and processing needs
+
+ 3. Design:
+=>  DEfine solution system based on requirement and analysis decision
+ 
+ Developmrnt:
+=>  Building the software using a programming language by the development team   
+ 
+ 5. Testing:
+=> Evaluating the quality of software with the aim of finding and fixing defects  
+
+ 6. Implementation:
+=>  Construct,test,train users,install new system
+
+ 7. Maintenance:
+=>  Updating and supporting the software after it has been delivered to the market. 
+
+4.What is DFD? Create a DFD diagram on Flipkart
+=>DFD stands for Data Flow Diagram.
+
+5.What is Flow chart? Create a flowchart to make addition of two numbers
+=> A flowchart graphically represents the sequences of a process with logical steps represented
+ through symbols.
+
+6.What is Use case Diagram? Create a use-case on bill payment on paytm.
+=>A UML use case diagram is the primary from of system/software requirements for a new software
+ program underdeveloped. 
